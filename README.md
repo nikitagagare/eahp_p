@@ -20,7 +20,7 @@ The **Emergency Ambulance Hiring Portal** is a web-based system developed using 
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/abhibadadhe/eahp.git
+git clone https://github.com/nikitagagare/eahp_p
 
 Step 2: Import the Database
 Open phpMyAdmin
