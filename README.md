@@ -47,6 +47,4 @@ User: Can register, log in, book an ambulance, and check booking status.
 
 Admin: Can view/manage users, ambulance listings, and all bookings.
 
-🙋‍♂️ Author
-Abhishek Badadhe
-GitHub: github.com/abhibadadhe
+
